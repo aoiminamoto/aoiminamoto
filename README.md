@@ -1,16 +1,50 @@
-## Hi there 👋
+# Aoi Minamoto
 
-<!--
-**aoiminamoto/aoiminamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO @ AImoji | AI Systems Engineer (Controls Team) @ Toyota
 
-Here are some ideas to get you started:
+Building Industrial AI Systems for Manufacturing, Human-Centered AI, and Knowledge Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Industrial AI Infrastructure
+- Manufacturing Knowledge Systems
+- AI-assisted Manufacturing Tools
+- Human-Centered Industrial AI
+- PLC / MES Operational Systems
+- Manufacturing Terminology Intelligence
+- AI-driven Troubleshooting Support
+
+---
+
+## Selected Projects
+
+### Manufacturing & Industrial AI Tool Lab
+AI-driven manufacturing software prototypes using synthetic industrial datasets.
+
+### Manufacturing Terminology Intelligence Platform
+A structured terminology management system for multilingual manufacturing environments.
+
+### Future Systems
+- PLC Fix AI Assistant
+- NG Code Intelligence System
+- Manufacturing Knowledge Infrastructure
+- AI-assisted Operational Support Systems
+
+---
+
+## Background
+
+Experience across:
+- Toyota Battery Manufacturing
+- Panasonic Energy
+- AI system development
+- manufacturing operations
+- multilingual industrial workflows
+
+---
+
+## Vision
+
+Transform fragmented manufacturing knowledge into scalable AI-assisted industrial systems.
