@@ -38,12 +38,11 @@ A structured terminology management system for multilingual manufacturing enviro
 
 ## Background
 
-Experience across:
-- Toyota Battery Manufacturing
-- Panasonic Energy
-- AI system development
-- manufacturing operations
-- multilingual industrial workflows
+I bring cross-domain experience across advanced manufacturing, battery production, industrial controls, AI system development, and multilingual industrial workflows.
+
+My work connects hands-on manufacturing operations with AI-ready knowledge infrastructure, helping translate complex shop-floor expertise into structured systems for real-world AI applications.
+
+Beyond industry engineering, I actively engage with human-centered AI research and evaluation, including reviewing 50+ ACM SIGCHI papers on HCI/HRI and human-centered technology applications, and serving as a CES 2026 Innovation Awards judge.
 
 ---
 
