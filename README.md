@@ -1,8 +1,10 @@
 # Aoi Minamoto
 
-Founder & CEO @ AImoji | AI Systems Engineer (Controls Team) @ Toyota
+Founder & CEO @ AImoji LLC | AI Systems Engineer, Manufacturing Controls
 
-Building Industrial AI Systems for Manufacturing, Human-Centered AI, and Knowledge Infrastructure.
+Building industrial AI systems, human-centered AI products, and knowledge infrastructure for AI-ready manufacturing and real-world decision support.
+
+I work at the intersection of manufacturing AI, responsible AI, and knowledge systems, turning complex real-world domain knowledge into AI-ready tools and infrastructure.
 
 ---
 
