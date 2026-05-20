@@ -10,13 +10,16 @@ I work at the intersection of manufacturing AI, responsible AI, and knowledge sy
 
 ## Current Focus
 
-- Industrial AI Infrastructure
-- Manufacturing Knowledge Systems
-- AI-assisted Manufacturing Tools
-- Human-Centered Industrial AI
-- PLC / MES Operational Systems
-- Manufacturing Terminology Intelligence
-- AI-driven Troubleshooting Support
+- Industrial AI infrastructure for large-scale manufacturing
+- AI-ready manufacturing knowledge systems
+- Glossary-controlled manufacturing terminology intelligence
+- AI-assisted manufacturing tools for plant-floor workflows
+- PLC / HMI / MES operational knowledge systems
+- AI-driven troubleshooting and maintenance support
+- Human-centered industrial AI and human-machine collaboration
+- AWS-deployed AI applications for real-world manufacturing use cases
+
+I focus on transforming complex manufacturing knowledge into governed, AI-ready systems that support real-world operations, productivity, and human-machine collaboration.
 
 ---
 
